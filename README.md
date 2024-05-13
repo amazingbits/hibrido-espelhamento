@@ -10,4 +10,4 @@ O site está totalmente responsivo. Há algumas mudanças sutis que eu tomei a l
 
 ## Utilização
 
-Para utilizar, basta descompactar a pasta da página em um diretório de um servidor apache e abrir no navegador o endereço correspondente.
+Link: <a href="https://amazingbits.github.io/hibrido-espelhamento/">Link do Projeto</a>
